@@ -18,6 +18,6 @@
 
 **请求标头示例：**
 
-https://moemail.app/api/emails/{id}/send
+moemail.app/api/emails/{id}/send
 
 cookie就是cookie参数（标头里的）
